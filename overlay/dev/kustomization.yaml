@@ -1,6 +1,6 @@
 resources:
 - ../../base
 namePrefix: dev-
-namespace: development
+namespace: default
 commonLabels:
   environment: development

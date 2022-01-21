@@ -1,7 +1,7 @@
 resources:
 - ../../base
 namePrefix: prod-
-namespace: production
+namespace: default
 commonLabels:
   environment: production
   sre-team: blue
